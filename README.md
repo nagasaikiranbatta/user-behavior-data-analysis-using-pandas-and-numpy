@@ -1,8 +1,9 @@
-#User Behaviour data analysis using pandas and numpy 
+# User Behaviour data analysis using pandas and numpy 
+
 Observations:
-Device Model Popularity:
-Xiaomi Mi 11 and iPhone 12 are the most popular device models among users.
-The OnePlus 9 and Samsung Galaxy S21 are the least popular.
+- Device Model Popularity:
+- Xiaomi Mi 11 and iPhone 12 are the most popular device models among users.
+- The OnePlus 9 and Samsung Galaxy S21 are the least popular.
 
 Operating System Usage:
 The majority of users use Android, with iOS users being fewer in comparison.
